@@ -1,0 +1,6 @@
+{
+  "name": "Threshold of Golden Dusk",
+  "description": "A 16:9 dry-media artwork rendered stroke-by-stroke in JavaScript using five simulated physical tools on cold-pressed cotton paper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
